@@ -27,7 +27,7 @@ Mobile - images/Mobile - Frontend Mentor - Product preview card component -.png
 ### Links
 
 
-- Live Site URL: https://bluecoderoom.netlify.app
+- Live Site URL: bc-productcardcomponent.netlify.app
 
 ## My process
 
